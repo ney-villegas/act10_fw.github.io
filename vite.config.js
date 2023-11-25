@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: "https://ney-villegas/act10_fw.github.io/",
+  base: "https://ney-villegas.github.io/act10_fw.github.io/",
 })
